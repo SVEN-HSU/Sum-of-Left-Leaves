@@ -1,0 +1,6 @@
+E:\000_工作\Leetcode\Sum of Left Leaves\Sum of Left Leaves\bin\Debug\Sum of Left Leaves.exe.config
+E:\000_工作\Leetcode\Sum of Left Leaves\Sum of Left Leaves\bin\Debug\Sum of Left Leaves.exe
+E:\000_工作\Leetcode\Sum of Left Leaves\Sum of Left Leaves\bin\Debug\Sum of Left Leaves.pdb
+E:\000_工作\Leetcode\Sum of Left Leaves\Sum of Left Leaves\obj\Debug\Sum of Left Leaves.csprojResolveAssemblyReference.cache
+E:\000_工作\Leetcode\Sum of Left Leaves\Sum of Left Leaves\obj\Debug\Sum of Left Leaves.exe
+E:\000_工作\Leetcode\Sum of Left Leaves\Sum of Left Leaves\obj\Debug\Sum of Left Leaves.pdb
